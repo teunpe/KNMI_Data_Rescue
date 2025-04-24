@@ -1,8 +1,8 @@
 *.tex
 *.db
 *.jpg
-Rescued-Data/**/data/raw
-Rescued-Data/**/docs
-Rescued-Data/**/src
+Rescued-Data/
 knmi
 .venv/
+CSVs/
+digitized/*.docx
