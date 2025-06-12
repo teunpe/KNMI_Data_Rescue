@@ -6,3 +6,4 @@ knmi
 .venv/
 CSVs/
 digitized/*.docx
+dbs/
