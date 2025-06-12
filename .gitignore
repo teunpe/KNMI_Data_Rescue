@@ -1,9 +1,8 @@
 *.tex
 *.db
 *.jpg
-Rescued-Data/
-knmi
 .venv/
-CSVs/
 digitized/*.docx
-dbs/
+*.db.wal
+tzdb-2025b/
+supporting/
